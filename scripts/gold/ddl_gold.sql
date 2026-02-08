@@ -78,7 +78,7 @@ ON pi.cat_id =pc.ID
 WHERE prd_end_dt IS NULL   --Filtering out our historical data
 GO
 --======================================
---Create Dimantion table:gold.fact_sales
+--Create Fact table:gold.fact_sales
 --======================================
 
 IF OBJECT_ID('gold.fact_sales','V') IS NOT NULL

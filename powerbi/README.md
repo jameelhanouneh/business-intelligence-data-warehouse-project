@@ -102,5 +102,5 @@ For full project details, please refer to the main repository README.
 
 # ⭐ Author
 
-**Jameel HN**  
+**Jameel Hanouneh**  
 Biomedical Engineer | Aspiring Healthcare Data Analyst

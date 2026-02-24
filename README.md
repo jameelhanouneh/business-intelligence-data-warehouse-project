@@ -6,7 +6,7 @@ This project demonstrates a complete data workflow — from raw data ingestion t
 
 It showcases the full lifecycle of a modern data solution:
 
-Data Sources → Data Warehouse → Analytics → BI Dashboard (Coming Soon)
+Data Sources → Data Warehouse → Analytics → BI Dashboard
 
 The project is designed as a portfolio to highlight practical skills in **data engineering**, **data analytics**, and **business intelligence**.
 
@@ -120,7 +120,7 @@ Additional metrics:
 
 ---
 
-# 📈 Dashboard (Coming Soon)
+# 📈 Dashboard
 
 A Power BI dashboard will be added to visualize:
 
@@ -181,7 +181,7 @@ project/
 
 - SQL Server  
 - T-SQL  
-- Power BI (planned)  
+- Power BI
 
 ---
 
